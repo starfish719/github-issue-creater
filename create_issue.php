@@ -11,7 +11,7 @@ $owner = 'owner name';
 $repository = 'repository name';
 $auth = 'username:access token';
 
-// csvのトラッカーからGitHubのラベルのマッピング
+// CSVのトラッカーからGitHubのラベルのマッピング
 $convTrackerList = array(
     'error' => 'bug',
 );
